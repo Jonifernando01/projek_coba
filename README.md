@@ -1,7 +1,5 @@
-# projek_coba di awal
-n = input("Masukkan nama: ")  
-i = input("Masukkan NIM: ")   
-m = input("Masukkan kelas: ") 
-
-print(f"Nama saya adalah {n} dengan NIM {i} dan saya dari kelas {m}.")
+kelompok 09 :
+ 1. Joni Fernando. S (231111598)
+ 2. Radhit Maulana (231110680)
+ 3. Erico Adelorenzo Samosir (231112600)
 
