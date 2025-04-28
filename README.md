@@ -1,4 +1,4 @@
-# projek_coba
+# projek_coba di awal
 n = input("Masukkan nama: ")  
 i = input("Masukkan NIM: ")   
 m = input("Masukkan kelas: ") 
